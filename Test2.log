@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 23:01
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 10:41
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
@@ -530,24 +530,24 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))) (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.
 aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
-LaTeX Font Info:    ... okay on input line 14.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 15.
+LaTeX Font Info:    ... okay on input line 15.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 15.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 15.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    ... okay on input line 15.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 (C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -564,22 +564,39 @@ Package caption Info: End \AtBeginDocument code.
 \makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks24
 )
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+
+LaTeX Font Warning: Font shape `OT1/cmr/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 18.
+
+
+LaTeX Font Warning: Font shape `OML/cmm/m/it' in size <20> not available
+(Font)              size <20.74> substituted on input line 18.
+
+
+LaTeX Font Warning: Font shape `OMS/cmsy/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 18.
+
+
+LaTeX Font Warning: Font shape `OMX/cmex/m/n' in size <20> not available
+(Font)              size <20.74> substituted on input line 18.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 20--21
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 
  []
 
 <lognormal_graph_1.png, id=1, 542.828pt x 542.025pt>
 File: lognormal_graph_1.png Graphic file (type png)
 <use lognormal_graph_1.png>
-Package pdftex.def Info: lognormal_graph_1.png used on input line 26.
+Package pdftex.def Info: lognormal_graph_1.png used on input line 27.
 (pdftex.def)             Requested size: 361.34999pt x 360.82254pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 31--33
+Underfull \hbox (badness 10000) in paragraph at lines 32--34
 
  []
 
@@ -588,111 +605,111 @@ Underfull \hbox (badness 10000) in paragraph at lines 31--33
 {C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ch
 ris/School/EXST_Reliability_and_Survival_Analysis/Test2/lognormal_graph_1.png>]
 
-Underfull \hbox (badness 10000) in paragraph at lines 34--35
+Underfull \hbox (badness 10000) in paragraph at lines 35--36
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 36--37
+Underfull \hbox (badness 10000) in paragraph at lines 37--38
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 39--40
 
  []
 
 <lognormal_graph_2.png, id=13, 542.828pt x 542.025pt>
 File: lognormal_graph_2.png Graphic file (type png)
 <use lognormal_graph_2.png>
-Package pdftex.def Info: lognormal_graph_2.png used on input line 51.
+Package pdftex.def Info: lognormal_graph_2.png used on input line 52.
 (pdftex.def)             Requested size: 361.34999pt x 360.82254pt.
 [2] [3 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/logn
 ormal_graph_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 57--59
+Underfull \hbox (badness 10000) in paragraph at lines 58--60
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+Underfull \hbox (badness 10000) in paragraph at lines 63--64
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 64--65
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 
  []
 
 [4]
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 77--78
 
  []
 
 <weibull_graph_1.png, id=28, 548.11517pt x 548.11517pt>
 File: weibull_graph_1.png Graphic file (type png)
 <use weibull_graph_1.png>
-Package pdftex.def Info: weibull_graph_1.png used on input line 82.
+Package pdftex.def Info: weibull_graph_1.png used on input line 83.
 (pdftex.def)             Requested size: 361.34999pt x 361.35568pt.
 [5] [6 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
 ull_graph_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 88--90
+Underfull \hbox (badness 10000) in paragraph at lines 89--91
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--92
+Underfull \hbox (badness 10000) in paragraph at lines 92--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 93--94
+Underfull \hbox (badness 10000) in paragraph at lines 94--95
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 95--96
+Underfull \hbox (badness 10000) in paragraph at lines 96--97
 
  []
 
 <weibull_graph_2.png, id=36, 554.34375pt x 553.5225pt>
 File: weibull_graph_2.png Graphic file (type png)
 <use weibull_graph_2.png>
-Package pdftex.def Info: weibull_graph_2.png used on input line 109.
+Package pdftex.def Info: weibull_graph_2.png used on input line 110.
 (pdftex.def)             Requested size: 361.34999pt x 360.83267pt.
 [7] [8 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
 ull_graph_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 115--117
+Underfull \hbox (badness 10000) in paragraph at lines 116--118
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 118--119
+Underfull \hbox (badness 10000) in paragraph at lines 119--120
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 122--123
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 133--134
+Underfull \hbox (badness 10000) in paragraph at lines 134--135
 
  []
 
 
 C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:14
-7: LaTeX Error: Something's wrong--perhaps a missing \item.
+8: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -700,13 +717,13 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 151--152
+Underfull \hbox (badness 10000) in paragraph at lines 152--153
 
  []
 
 
 C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:15
-3: Undefined control sequence
+4: Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -715,7 +732,7 @@ and I'll forget about whatever was undefined.
 
 
 C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:15
-3: Missing } inserted
+4: Missing } inserted
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -723,18 +740,18 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 153--154
+Underfull \hbox (badness 10000) in paragraph at lines 154--155
 
  []
 
  [9]
-Underfull \hbox (badness 10000) in paragraph at lines 161--162
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 
  []
 
 
 C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:16
-3: Undefined control sequence
+4: Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -743,7 +760,7 @@ and I'll forget about whatever was undefined.
 
 
 C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:16
-3: Missing } inserted
+4: Missing } inserted
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -751,42 +768,100 @@ really didn't forget anything, try typing `2' now; then
 my insertion and my current dilemma will both disappear.
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 163--164
+Underfull \hbox (badness 10000) in paragraph at lines 164--165
 
  []
 
  <likelihood_fit_1.png, id=51, 615.39pt x 384.345pt>
 File: likelihood_fit_1.png Graphic file (type png)
  <use likelihood_fit_1.png>
-Package pdftex.def Info: likelihood_fit_1.png used on input line 172.
+Package pdftex.def Info: likelihood_fit_1.png used on input line 173.
 (pdftex.def)             Requested size: 361.34999pt x 225.68248pt.
- [10] [11 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/l
-ikelihood_fit_1.png>]
-(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux) 
-) 
+ [10]
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:17
+9: LaTeX Error: \begin{enumerate} on input line 147 ended by \end{enumerat}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 185--186
+
+ []
+
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:19
+5: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 196--197
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 203--204
+
+ []
+
+ [11 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/likeli
+hood_fit_1.png>]
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:21
+0: Missing $ inserted
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 210--211
+
+ []
+
+ [12]
+(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux)
+
+LaTeX Font Warning: Size substitutions with differences
+(Font)              up to 0.74pt have occurred.
+
+ ) 
 Here is how much of TeX's memory you used:
- 4270 strings out of 494045
- 60914 string characters out of 3145968
- 110467 words of memory out of 3000000
- 7481 multiletter control sequences out of 15000+200000
- 26867 words of font info for 61 fonts, out of 3000000 for 9000
+ 4272 strings out of 494045
+ 61001 string characters out of 3145968
+ 110470 words of memory out of 3000000
+ 7486 multiletter control sequences out of 15000+200000
+ 26645 words of font info for 60 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
  36i,7n,38p,730b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Progra
-m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program F
-iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
-s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (
-x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86
-)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/Mi
-KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
-eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Test2.pdf (11 pages, 214686 bytes).
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
+:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
+Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pr
+ogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/Prog
+ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Program
+ Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Fi
+les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
+ (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (x
+86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86)
+/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
+X 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Test2.pdf (12 pages, 230183 bytes).
 PDF statistics:
- 97 PDF objects out of 1000 (max. 8388607)
+ 104 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 

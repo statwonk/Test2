@@ -9,6 +9,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage[pdftex]{graphicx}
 \usepackage{placeins}
+\DeclareMathSizes{12}{20}{14}{10}
 
 \begin{document}
 \title{Test 2}
@@ -173,6 +174,48 @@ where \(\delta_{i}\) takes the value of 1 where an obsevation is left-censored, 
 \end{figure}
 \FloatBarrier
 
+  \end{enumerate}
+\end{enumerat}emg
+
+
+\section{(30 points).}
+A component has two independent failure modes, say Mode 1 and Mode 2, respectively.  The independent failure modes can be modeled using the Weibull distributions WEIB\((\eta_{1}, \beta_{1})\) and WEIB\((\eta_{2}, \beta_{2})\), respectively.\\
+
+Define by T the life of the component when the two failure modes are active.  From a set of failure time data, the following estimates were obtained from JMP.\\
+
+\begin{center}
+\(\hat{\eta_{1}} = 30 , \hat{\beta_{1}} = 1 \)\\
+\(\hat{\eta_{1}} = 40 , \hat{\beta_{1}} = 2 \)\\
+\end{center}
+
+Using the estimates above, do the following:
+
+\begin{enumerate}
+  \begin{enumerate}
+  \item Provide an estimate of the survival function \(S_T(t)\) of the component.\\
+    \begin{center}
+      \(\hat{S_T}(t) = \left\{1 - \hat{F_1}(t)\right\}\left\{1 - \hat{F_2}(t)\right\} \)\\
+        
+        where \(\hat{F_1} \) is WEIB(30, 1) and \(\hat{F_2} \) is WEIB(40, 2)\\
+    \end{center}
+    \vspace{0.5cm}
+  \item Provide an estimate of the cdf \(F_T(t)\) of the component.\\
+    \begin{center}
+      \(\hat{F_T}(t) = \left\{1 - \left\{1 - \hat{F_1}(t)\right\}\left\{1 - \hat{F_2}(t)\right\}\right\} \)\\
+      
+      where \(\hat{F_1} \) is WEIB(30, 1) and \(\hat{F_2} \) is WEIB(40, 2)\\
+    \end{center}
+\pagebreak
+  \item Obtain an expression for the hazard estimate of \(T \). Your answer must be in function of hazard functions (\ h_1(t) \) and \(h_2(t) \) for failures from Mode 1 and Mode 2, respectively.\\
+
+  \begin{center}
+    \large\(h(t) = \frac{f(t)}{1 - F(t)}\)\\
+      \vspace{1cm}
+    \(\frac{f_1(t)f_2(t)}{1-\left\{1 - [1 - F_1(t)][1 - F_2(t)]\right\}} \)\\
+      \vspace{1cm}
+    \(\frac{f_1(t)f_2(t)}{[1 - F_1(t)][1 - F_2(t)]} = h_1(t)h_2(t) \)
+  \end{center}
+  
   \end{enumerate}
 \end{enumerate}
 
