@@ -213,7 +213,40 @@ Using the estimates above, do the following:
       \vspace{1cm}
     \(\frac{f_1(t)f_2(t)}{1-\left\{1 - [1 - F_1(t)][1 - F_2(t)]\right\}} \)\\
       \vspace{1cm}
-    \(\frac{f_1(t)f_2(t)}{[1 - F_1(t)][1 - F_2(t)]} = h_1(t)h_2(t) \)
+    \(\frac{f_1(t)f_2(t)}{[1 - F_1(t)][1 - F_2(t)]} = h_1(t)h_2(t) \)\\
+  \end{center}
+
+\vspace{3in}
+  \item Plot the hazard function of \(T \). Make relevant comments.\\
+
+  \begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{prob4d_weibull_1_haz.png}
+        \caption{Hazard of \(T \) distributed \( WEI(\eta = 30 , \beta = 1)\)}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+  
+   \begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{prob4d_weibull_2_haz.png}
+        \caption{Hazard of \(T \) distributed \( WEI(\eta = 30 , \beta = 1)\)}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+  
+   \begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{prob4d_weibull_combo_haz.png}
+        \caption{Hazard of \(T \) distributed \( WEI(\eta = 30 , \beta = 1)\)}
+      \end{figure}
+      \FloatBarrier
   \end{center}
   
   \end{enumerate}

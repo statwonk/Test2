@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 10:41
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 11:19
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
@@ -831,7 +831,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 210--211
 
  []
 
- [12]
+
+Underfull \hbox (badness 10000) in paragraph at lines 221--222
+
+ []
+
+ <prob4d_weibull_1_haz.png, id=59, 481.8pt x 396.39pt>
+File: prob4d_weibull_1_haz.png Graphic file (type png)
+ <use prob4d_weibull_1_haz.png>
+Package pdftex.def Info: prob4d_weibull_1_haz.png used on input line 227.
+(pdftex.def)             Requested size: 361.34999pt x 297.2978pt.
+ [12] [13 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/p
+rob4d_weibull_1_haz.png>]
+<prob4d_weibull_2_haz.png, id=69, 495.88338pt x 459.19246pt>
+File: prob4d_weibull_2_haz.png Graphic file (type png)
+ <use prob4d_weibull_2_haz.png>
+Package pdftex.def Info: prob4d_weibull_2_haz.png used on input line 237.
+(pdftex.def)             Requested size: 361.34999pt x 334.61214pt.
+ [14] [15 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/p
+rob4d_weibull_2_haz.png>]
+<prob4d_weibull_combo_haz.png, id=77, 569.58559pt x 487.51627pt>
+File: prob4d_weibull_combo_haz.png Graphic file (type png)
+ <use prob4d_weibull_combo_haz.png>
+Package pdftex.def Info: prob4d_weibull_combo_haz.png used on input line 247.
+(pdftex.def)             Requested size: 361.34999pt x 309.29414pt.
+ [16] [17 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/p
+rob4d_weibull_combo_haz.png>]
 (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -839,13 +864,13 @@ LaTeX Font Warning: Size substitutions with differences
 
  ) 
 Here is how much of TeX's memory you used:
- 4272 strings out of 494045
- 61001 string characters out of 3145968
+ 4287 strings out of 494045
+ 61438 string characters out of 3145968
  110470 words of memory out of 3000000
- 7486 multiletter control sequences out of 15000+200000
+ 7498 multiletter control sequences out of 15000+200000
  26645 words of font info for 60 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,7n,38p,730b,397s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,7n,38p,847b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
@@ -859,9 +884,9 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Test2.pdf (12 pages, 230183 bytes).
+Output written on Test2.pdf (17 pages, 317647 bytes).
 PDF statistics:
- 104 PDF objects out of 1000 (max. 8388607)
+ 126 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
