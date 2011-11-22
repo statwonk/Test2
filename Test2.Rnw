@@ -163,6 +163,16 @@ The likelihood is as follows:\\
 
 where \(\delta_{i}\) takes the value of 1 where an obsevation is left-censored, and 0 where an observation is right-censored.
 
+\item Use JMP to fit the data. Provide parameter estimates and a plot of the likelihood contour surface.
+
+\FloatBarrier
+\begin{figure}
+  \centering
+  \includegraphics[width = 5in]{likelihood_fit_1.png}
+  \caption{Weibull Likelihood Contour Surface}
+\end{figure}
+\FloatBarrier
+
   \end{enumerate}
 \end{enumerate}
 
