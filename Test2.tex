@@ -71,4 +71,56 @@ Therefore the steps use to generate the plot above are as follows:\\
 \end{itemize}
 
 
+% Problem 2.a
+\begin{figure}
+  \centering
+  \includegraphics[width = 5in]{weibull_graph_1.png}
+  \caption{Weibull Probability Plot}
+\end{figure}
+\FloatBarrier
+
+\subsection{}
+Plot on the paper the WEIB\begin{math}(exp(\eta = 10, \beta = 2).\end{math}
+Explain clearly the process to plot the line.\\
+
+A probability plot linearizes t, some variable, against the CDF of that variable by transforming both variables such that the relationship between the two is linear.  First we start with the quantile function of the CDF.  In the case of the Weibull, this is \(t_p = exp(\mu + \phi_{sev}^{-1} \sigma)\), where \(\phi_{sev}^{-1}\) is the p quantile of the standard smallest extreme value distribution.  By taking the log of both sides we get \(log(t_p) = \mu + \phi_{sev}^{-1} \sigma\).  This relationship plots as a straight line.  The slope of the line, given that the respective quantile function is the inverse of  \(\phi_{sev}\) is \(1/\sigma\).\\
+
+Therefore the steps use to generate the plot above are as follows:\\
+\begin{itemize}
+\item Create a sequence of numbers between 0 and 20.\\
+
+\item Log these numbers and calculate respective PDF outputs for the vector based on the smallest extreme value distribution.  Since the numbers have been logged this is the equivalent to the Weibull distribution.
+
+\item Use the plotprob function in Rsplida, which creates probability paper by plotting each respective axis in log-scale (in this case).
+
+\item Use the lines() function in Rsplida which plots t:time against y:quantiles of time.
+\end{itemize}
+
+
+% Problem 2.b
+\begin{figure}
+  \centering
+  \includegraphics[width = 5in]{weibull_graph_2.png}
+  \caption{Weibull Probability Plot}
+\end{figure}
+\FloatBarrier
+
+\subsection{}
+Plot on the paper the WEIB\begin{math}(exp(\eta = 10, \beta = 2).\end{math}
+Explain clearly the process to plot the line.\\
+
+A probability plot linearizes t, some variable, against the CDF of that variable by transforming both variables such that the relationship between the two is linear.  First we start with the quantile function of the CDF.  In the case of the Weibull, this is \(t_p = exp(\mu + \phi_{sev}^{-1} \sigma)\), where \(\phi_{sev}^{-1}\) is the p quantile of the standard smallest extreme value distribution.  By taking the log of both sides we get \(log(t_p) = \mu + \phi_{sev}^{-1} \sigma\).  This relationship plots as a straight line.  The slope of the line, given that the respective quantile function is the inverse of  \(\phi_{sev}\) is \(1/\sigma\).\\
+
+Therefore the steps use to generate the plot above are as follows:\\
+\begin{itemize}
+\item Create a sequence of numbers between 0 and 20.\\
+
+\item Log these numbers and calculate respective PDF outputs for the vector based on the smallest extreme value distribution.  Since the numbers have been logged this is the equivalent to the Weibull distribution.
+
+\item Use the plotprob function in Rsplida, which creates probability paper by plotting each respective axis in log-scale (in this case).
+
+\item Use the lines() function in Rsplida which plots t:time against y:quantiles of time.
+\end{itemize}
+
+
 \end{document}

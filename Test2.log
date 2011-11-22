@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 20:29
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 20:49
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
@@ -634,16 +634,68 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-[4] (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.a
+<weibull_graph_1.png, id=26, 548.11517pt x 548.11517pt>
+File: weibull_graph_1.png Graphic file (type png)
+<use weibull_graph_1.png>
+Package pdftex.def Info: weibull_graph_1.png used on input line 77.
+(pdftex.def)             Requested size: 361.34999pt x 361.35568pt.
+[4] [5 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
+ull_graph_1.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 86--87
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 88--89
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 90--91
+
+ []
+
+<weibull_graph_2.png, id=34, 554.34375pt x 553.5225pt>
+File: weibull_graph_2.png Graphic file (type png)
+<use weibull_graph_2.png>
+Package pdftex.def Info: weibull_graph_2.png used on input line 103.
+(pdftex.def)             Requested size: 361.34999pt x 360.83267pt.
+[6] [7 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
+ull_graph_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 109--111
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 112--113
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 114--115
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 116--117
+
+ []
+
+[8] (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.a
 ux) ) 
 Here is how much of TeX's memory you used:
- 4278 strings out of 494045
- 60950 string characters out of 3145968
+ 4288 strings out of 494045
+ 61178 string characters out of 3145968
  109467 words of memory out of 3000000
- 7488 multiletter control sequences out of 15000+200000
+ 7496 multiletter control sequences out of 15000+200000
  27202 words of font info for 62 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,6n,38p,729b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,6n,38p,730b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\Chris\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
 00\tcrm1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
 m/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
@@ -654,9 +706,9 @@ fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
 /Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pro
 gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Test2.pdf (4 pages, 138906 bytes).
+Output written on Test2.pdf (8 pages, 179680 bytes).
 PDF statistics:
- 61 PDF objects out of 1000 (max. 8388607)
+ 79 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 11 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
