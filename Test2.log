@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 20:49
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 22:36
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
@@ -597,12 +597,6 @@ Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
-LaTeX Font Info:    Try loading font information for TS1+aer on input line 38.
-(C:/PROGRA~1/R/R-213~1.1/share/texmf/tex/latex\ts1aer.fd
-File: ts1aer.fd 
-)
-LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
-(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 38.
 
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
@@ -634,81 +628,159 @@ Underfull \hbox (badness 10000) in paragraph at lines 64--65
 
  []
 
-<weibull_graph_1.png, id=26, 548.11517pt x 548.11517pt>
+[4]
+Underfull \hbox (badness 10000) in paragraph at lines 76--77
+
+ []
+
+<weibull_graph_1.png, id=28, 548.11517pt x 548.11517pt>
 File: weibull_graph_1.png Graphic file (type png)
 <use weibull_graph_1.png>
-Package pdftex.def Info: weibull_graph_1.png used on input line 77.
+Package pdftex.def Info: weibull_graph_1.png used on input line 82.
 (pdftex.def)             Requested size: 361.34999pt x 361.35568pt.
-[4] [5 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
+[5] [6 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
 ull_graph_1.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 83--85
+Underfull \hbox (badness 10000) in paragraph at lines 88--90
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--87
+Underfull \hbox (badness 10000) in paragraph at lines 91--92
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 88--89
+Underfull \hbox (badness 10000) in paragraph at lines 93--94
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
 
  []
 
-<weibull_graph_2.png, id=34, 554.34375pt x 553.5225pt>
+<weibull_graph_2.png, id=36, 554.34375pt x 553.5225pt>
 File: weibull_graph_2.png Graphic file (type png)
 <use weibull_graph_2.png>
-Package pdftex.def Info: weibull_graph_2.png used on input line 103.
+Package pdftex.def Info: weibull_graph_2.png used on input line 109.
 (pdftex.def)             Requested size: 361.34999pt x 360.83267pt.
-[6] [7 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
+[7] [8 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/weib
 ull_graph_2.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 109--111
+Underfull \hbox (badness 10000) in paragraph at lines 115--117
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 112--113
+Underfull \hbox (badness 10000) in paragraph at lines 118--119
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+Underfull \hbox (badness 10000) in paragraph at lines 120--121
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 116--117
+Underfull \hbox (badness 10000) in paragraph at lines 122--123
 
  []
 
-[8] (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.a
-ux) ) 
+
+Underfull \hbox (badness 10000) in paragraph at lines 133--134
+
+ []
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:14
+7: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 151--152
+
+ []
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:15
+3: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:15
+3: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 153--154
+
+ []
+
+ [9]
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
+
+ []
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:16
+3: Undefined control sequence
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:16
+3: Missing } inserted
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 163--164
+
+ []
+
+ [10]
+(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux) 
+) 
 Here is how much of TeX's memory you used:
- 4288 strings out of 494045
- 61178 string characters out of 3145968
- 109467 words of memory out of 3000000
- 7496 multiletter control sequences out of 15000+200000
- 27202 words of font info for 62 fonts, out of 3000000 for 9000
+ 4265 strings out of 494045
+ 60795 string characters out of 3145968
+ 110467 words of memory out of 3000000
+ 7477 multiletter control sequences out of 15000+200000
+ 26867 words of font info for 61 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,6n,38p,730b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
- <C:\Users\Chris\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
-00\tcrm1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
-m/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
-cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
-mi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
-7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
-fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pro
-gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Test2.pdf (8 pages, 179680 bytes).
+ 36i,7n,38p,730b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
+C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/P
+rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi5.pfb><C:/Progra
+m Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program F
+iles (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program File
+s (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program Files (
+x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:/Program Files (x86
+)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Test2.pdf (10 pages, 208882 bytes).
 PDF statistics:
- 79 PDF objects out of 1000 (max. 8388607)
+ 92 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  21 words of extra memory for PDF output out of 10000 (max. 10000000)
 
