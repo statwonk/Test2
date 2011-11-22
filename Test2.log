@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 11:19
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 15:34
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
@@ -856,7 +856,7 @@ File: prob4d_weibull_combo_haz.png Graphic file (type png)
 Package pdftex.def Info: prob4d_weibull_combo_haz.png used on input line 247.
 (pdftex.def)             Requested size: 361.34999pt x 309.29414pt.
  [16] [17 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/p
-rob4d_weibull_combo_haz.png>]
+rob4d_weibull_combo_haz.png>] [18]
 (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux)
 
 LaTeX Font Warning: Size substitutions with differences
@@ -884,9 +884,9 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Test2.pdf (17 pages, 317647 bytes).
+Output written on Test2.pdf (18 pages, 318115 bytes).
 PDF statistics:
- 126 PDF objects out of 1000 (max. 8388607)
+ 129 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  41 words of extra memory for PDF output out of 10000 (max. 10000000)
 
