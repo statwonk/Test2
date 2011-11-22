@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 19:10
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  21 NOV 2011 20:29
 entering extended mode
 **C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
 (C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
@@ -29,9 +29,12 @@ File: size10.clo 2007/10/19 v1.4h Standard LaTeX file (size option)
 \abovecaptionskip=\skip41
 \belowcaptionskip=\skip42
 \bibindent=\dimen102
+) (C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\latex\preprint\fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip43
 ) ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amsmath.sty"
 Package: amsmath 2000/07/18 v2.13 AMS math features
-\@mathmargin=\skip43
+\@mathmargin=\skip44
 For additional information on amsmath, use the `?' option.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ams\math\amstext.sty"
 Package: amstext 2000/06/29 v2.01
@@ -77,8 +80,8 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 568.
 \totwidth@=\dimen110
 \lineht@=\dimen111
 \@envbody=\toks17
-\multlinegap=\skip44
-\multlinetaggap=\skip45
+\multlinegap=\skip45
+\multlinetaggap=\skip46
 \mathdisplay@stack=\toks18
 LaTeX Info: Redefining \[ on input line 2666.
 LaTeX Info: Redefining \] on input line 2667.
@@ -339,6 +342,8 @@ Package: ltxcmds 2011/04/18 v1.20 LaTeX kernel commands for general use (HO)
 ))
 \Gin@req@height=\dimen121
 \Gin@req@width=\dimen122
+) (C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\latex\placeins\placeins.sty
+Package: placeins 2005/04/18  v 2.2
 ) (C:/PROGRA~1/R/R-213~1.1/share/texmf/tex/latex\Sweave.sty
 Package: Sweave 
 (C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\latex\fancyvrb\fancyvrb.sty
@@ -525,24 +530,24 @@ LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
 )))) (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.
 aux)
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 12.
-LaTeX Font Info:    ... okay on input line 12.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 12.
-LaTeX Font Info:    Try loading font information for TS1+cmr on input line 12.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 14.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 14.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
 File: ts1cmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
 )
-LaTeX Font Info:    ... okay on input line 12.
+LaTeX Font Info:    ... okay on input line 14.
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 (C:\Users\Chris\AppData\Roaming\MiKTeX\2.9\tex\context\base\supp-pdf.mkii
@@ -559,60 +564,99 @@ Package caption Info: End \AtBeginDocument code.
 \makeMPintoPDFobject=\count109
 \everyMPtoPDFconversion=\toks24
 )
-Underfull \hbox (badness 10000) in paragraph at lines 17--18
+Underfull \hbox (badness 10000) in paragraph at lines 19--20
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 19--20
+Underfull \hbox (badness 10000) in paragraph at lines 21--22
 
  []
 
 <lognormal_graph_1.png, id=1, 542.828pt x 542.025pt>
 File: lognormal_graph_1.png Graphic file (type png)
 <use lognormal_graph_1.png>
-Package pdftex.def Info: lognormal_graph_1.png used on input line 22.
+Package pdftex.def Info: lognormal_graph_1.png used on input line 26.
 (pdftex.def)             Requested size: 361.34999pt x 360.82254pt.
 
-Overfull \hbox (16.34999pt too wide) in paragraph at lines 22--23
-[][] 
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
+
  []
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:27
-: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+[1
+
+{C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map} <C:/Users/Ch
+ris/School/EXST_Reliability_and_Survival_Analysis/Test2/lognormal_graph_1.png>]
+
+Underfull \hbox (badness 10000) in paragraph at lines 34--35
+
+ []
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:28
-: Missing $ inserted
-I've inserted a begin-math/end-math symbol since I think
-you left one out. Proceed, with fingers crossed.
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
- [1
+ []
 
-{C:/Users/Chris/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2 <C:/User
-s/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/lognormal_graph_1.p
-ng>]
-(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux) 
-) 
+LaTeX Font Info:    Try loading font information for TS1+aer on input line 38.
+(C:/PROGRA~1/R/R-213~1.1/share/texmf/tex/latex\ts1aer.fd
+File: ts1aer.fd 
+)
+LaTeX Font Info:    Font shape `TS1/aer/m/n' in size <10> not available
+(Font)              Font shape `TS1/cmr/m/n' tried instead on input line 38.
+
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
+
+ []
+
+<lognormal_graph_2.png, id=13, 542.828pt x 542.025pt>
+File: lognormal_graph_2.png Graphic file (type png)
+<use lognormal_graph_2.png>
+Package pdftex.def Info: lognormal_graph_2.png used on input line 51.
+(pdftex.def)             Requested size: 361.34999pt x 360.82254pt.
+[2] [3 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/logn
+ormal_graph_2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 57--59
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 60--61
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 62--63
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 64--65
+
+ []
+
+[4] (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.a
+ux) ) 
 Here is how much of TeX's memory you used:
- 4208 strings out of 494045
- 59641 string characters out of 3145968
- 107329 words of memory out of 3000000
- 7436 multiletter control sequences out of 15000+200000
- 23721 words of font info for 55 fonts, out of 3000000 for 9000
+ 4278 strings out of 494045
+ 60950 string characters out of 3145968
+ 109467 words of memory out of 3000000
+ 7488 multiletter control sequences out of 15000+200000
+ 27202 words of font info for 62 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,6n,38p,286b,264s stack positions out of 5000i,500n,10000p,200000b,50000s
-<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb><
-C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:
-/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/P
-rogram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Prog
-ram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Program
- Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb>
-Output written on Test2.pdf (2 pages, 89355 bytes).
+ 36i,6n,38p,729b,276s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\Chris\AppData\Local\MiKTeX\2.9\fonts\pk\ljfour\jknappen\ec\dpi6
+00\tcrm1000.pk><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmbx10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/
+cmbx12.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cm
+mi10.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi
+7.pfb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.p
+fb><C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr12.pfb>
+<C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr17.pfb><C:
+/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Pro
+gram Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on Test2.pdf (4 pages, 138906 bytes).
 PDF statistics:
- 36 PDF objects out of 1000 (max. 8388607)
+ 61 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
- 6 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
