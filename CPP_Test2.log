@@ -1,7 +1,10 @@
-This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 23:50
+This is pdfTeX, Version 3.1415926-2.3-1.40.12 (MiKTeX 2.9) (preloaded format=pdflatex 2011.11.17)  22 NOV 2011 23:48
 entering extended mode
-**C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
-(C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex
+**C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.
+tex
+
+(C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.t
+ex
 LaTeX2e <2011/06/27>
 Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
 abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
@@ -528,8 +531,8 @@ LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 LaTeX Font Info:    Try loading font information for T1+aer on input line 100.
 ("C:\Program Files (x86)\MiKTeX 2.9\tex\latex\ae\t1aer.fd"
 File: t1aer.fd 1997/11/16 Font definitions for T1/aer.
-)))) (C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.
-aux)
+))))
+No file CPP_Test2.aux.
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 15.
 LaTeX Font Info:    ... okay on input line 15.
 LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 15.
@@ -708,8 +711,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 134--135
  []
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:14
-8: LaTeX Error: Something's wrong--perhaps a missing \item.
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:148: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -722,8 +725,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 152--153
  []
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:15
-4: Undefined control sequence
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:154: Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -731,8 +734,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:15
-4: Missing } inserted
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:154: Missing } inserted
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -750,8 +753,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 162--163
  []
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:16
-4: Undefined control sequence
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:164: Undefined control sequence
 The control sequence at the end of the top line
 of your error message was never \def'ed. If you have
 misspelled it (e.g., `\hobx'), type `I' and the correct
@@ -759,8 +762,8 @@ spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:16
-4: Missing } inserted
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:164: Missing } inserted
 I've inserted something that you may have forgotten.
 (See the <inserted text> above.)
 With luck, this will get me unwedged. But if you
@@ -778,6 +781,19 @@ File: likelihood_fit_1.png Graphic file (type png)
 Package pdftex.def Info: likelihood_fit_1.png used on input line 173.
 (pdftex.def)             Requested size: 361.34999pt x 225.68248pt.
  [10]
+
+
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:179: LaTeX Error: \begin{enumerate} on input line 147 ended by \end{enumerat}
+.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
 Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
@@ -789,8 +805,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 185--186
 
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:19
-5: LaTeX Error: Something's wrong--perhaps a missing \item.
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:195: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -809,8 +825,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 203--204
 
  [11 <C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/likeli
 hood_fit_1.png>]
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:21
-0: Missing $ inserted
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:210: Missing $ inserted
 I've inserted a begin-math/end-math symbol since I think
 you left one out. Proceed, with fingers crossed.
 
@@ -824,7 +840,8 @@ Underfull \hbox (badness 10000) in paragraph at lines 221--222
 
  []
 
- <prob4d_weibull_1_haz.png, id=59, 481.8pt x 396.39pt>
+
+<prob4d_weibull_1_haz.png, id=59, 481.8pt x 396.39pt>
 File: prob4d_weibull_1_haz.png Graphic file (type png)
  <use prob4d_weibull_1_haz.png>
 Package pdftex.def Info: prob4d_weibull_1_haz.png used on input line 227.
@@ -847,8 +864,8 @@ Package pdftex.def Info: prob4d_weibull_combo_haz.png used on input line 247.
 rob4d_weibull_combo_haz.png>]
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:25
-9: LaTeX Error: Something's wrong--perhaps a missing \item.
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:259: LaTeX Error: Something's wrong--perhaps a missing \item.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -910,8 +927,8 @@ Package pdftex.def Info: problem5_hazard2.png used on input line 350.
 roblem5_hazard2.png>]
 
 
-C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/Test2.tex:35
-5: LaTeX Error: There's no line here to end.
+C:/Users/Chris/School/EXST_Reliability_and_Survival_Analysis/Test2/CPP_Test2.te
+x:355: LaTeX Error: There's no line here to end.
 
 See the LaTeX manual or LaTeX Companion for explanation.
 Type  H <return>  for immediate help
@@ -920,20 +937,21 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\Test2.aux)
+(C:\Users\Chris\School\EXST_Reliability_and_Survival_Analysis\Test2\CPP_Test2.a
+ux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.74pt have occurred.
 
  ) 
 Here is how much of TeX's memory you used:
- 4316 strings out of 494045
- 62166 string characters out of 3145968
+ 4315 strings out of 494045
+ 62057 string characters out of 3145968
  110470 words of memory out of 3000000
- 7521 multiletter control sequences out of 15000+200000
+ 7522 multiletter control sequences out of 15000+200000
  26645 words of font info for 60 fonts, out of 3000000 for 9000
  715 hyphenation exceptions out of 8191
- 36i,7n,38p,847b,451s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 36i,7n,38p,851b,455s stack positions out of 5000i,500n,10000p,200000b,50000s
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx10.pfb>
 <C:/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C
 :/Program Files (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/
@@ -947,7 +965,7 @@ les (x86)/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files
 /MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Program Files (x86)/MiK
 TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files (x86)/MiKTe
 X 2.9/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
-Output written on Test2.pdf (29 pages, 486691 bytes).
+Output written on CPP_Test2.pdf (29 pages, 482481 bytes).
 PDF statistics:
  176 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)

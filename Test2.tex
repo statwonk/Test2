@@ -176,7 +176,7 @@ where \(\delta_{i}\) takes the value of 1 where an obsevation is left-censored, 
 \FloatBarrier
 
   \end{enumerate}
-\end{enumerat}emg
+\end{enumerate}
 
 
 \section{(30 points).}
@@ -248,11 +248,112 @@ Using the estimates above, do the following:
         \caption{Hazard of \(T \) distributed \( WEI(\eta = 30 , \beta = 1)\)}
       \end{figure}
       \FloatBarrier
-  \end{center}
+  \end{center} 
   
   \end{enumerate}
 \end{enumerate}
 
-This is to show Luis how Github works.
+\section{} Use the ShockAbsorber data with failure modes to work on this question.
+
+\begin{enumerate}
+  \begin{enumerate}
+  \item Fit the data without using the information on failure modes.\\
+
+\begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{problem5_fit.png}
+        \caption{CDF of the Weibull model without respect to failure mode.}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+  
+  \item Use a Weibull for the two modes of failure and the information on failure mode to estimate failure time when the two moes of failure are acting.\\
+
+\begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{problem5_fit_twomodes.png}
+        \caption{CDF of the Weibull model with respect to failure mode.}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+  
+  \item Compre the two models fitted above. Explain throughly differences or similarities you observe in the two model fits. For this, it would be convenient to provide graphical comparisons for the failure probabilities and hazard function estimates from the two models.
+  
+  \begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{problem5_fit_dist1.png}
+        \caption{CDF of the first model (wo failure modes)}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+  
+  \begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{problem5_fit_dist2.png}
+        \caption{CDF of the second model (w failure modes)}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+ 
+  Modeling for failure modes does not appear to add much information to the understanding of the data generating process.  The mean time to failure of both models is about 24,700 thousand cycles each.
+  
+\begin{center}
+First Model\\
+\begin{tabular}{c c c}
+\hline
+Parameter & Estimate & Std Error\\
+\hline
+Weibull \(\alpha \) & 27718 & 3046\\
+Weibull \(\beta \) & 3.16 & 0.73\\
+\hline
+\end{tabular}
+\end{center}
+
+\begin{center}
+Second Model\\
+\begin{tabular}{c c}
+\hline
+Parameter & Estimate\\
+\hline
+Weibull - Mode 1 \(\alpha \) & 31205\\
+Weibull - Mode 1 \(\beta \) & 3.38\\
+Weibull - Mode 2 \(\alpha \) & 40865\\
+Weibull - Mode 2 \(\beta \) & 2.82\\
+\hline
+\end{tabular}
+\end{center}
+  
+Further, the hazard estimates at 20,000 thousand cycles for both models is very close, about 0.00005.\\
+
+\begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{problem5_hazard1.png}
+        \caption{Hazard of the Weibull model without respect to failure mode.}
+      \end{figure}
+      \FloatBarrier
+  \end{center}
+  
+  \begin{center}
+        \FloatBarrier
+      \begin{figure}
+        \centering
+        \includegraphics[width = 5in]{problem5_hazard2.png}
+        \caption{Hazard of the Weibull model with respect to failure mode.}
+      \end{figure}
+      \FloatBarrier
+  \end{center}\\
+
+    \end{enumerate}
+\end{enumerate}
 
 \end{document}

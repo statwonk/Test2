@@ -175,7 +175,7 @@ where \(\delta_{i}\) takes the value of 1 where an obsevation is left-censored, 
 \FloatBarrier
 
   \end{enumerate}
-\end{enumerate}
+\end{enumerat}emg
 
 
 \section{(30 points).}
